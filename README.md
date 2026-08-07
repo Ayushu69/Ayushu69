@@ -1,289 +1,61 @@
+<!-- Banner -->
 <p align="center">
-  <img src="rdr.jpeg" width="100%">
+  <img src="rdr.jpeg" alt="banner" width="100%">
 </p>
 
-<div align="center">
+# Hey!
 
-# Hey there 👋 I'm Ayushmaan Dhiman
+🕷️ I'm Ayushmaan.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Game+Engine+Programmer;Graphics+Programming+Enthusiast;Building+my+own+2D+Game+Engine+in+C%2B%2B;Always+learning+something+new."/>
+👾 I build game engines, games, and machine learning projects.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0"/>
-</p>
+## 🚧 Currently Working On
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```cpp
-class Ayushmaan {
-
-public:
-
-    string education =
-        "B.Tech CSE (AI & ML)";
-
-    vector<string> interests = {
-
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Graphics Programming",
-        "Game Engine Development",
-        "Game Development"
-
-    };
-
-    string currentGoal =
-        "Building software from scratch.";
-
-    string dream =
-        "AAA Engine / Gameplay Programmer";
-};
-```
-
-I'm a Computer Science student passionate about building software from the ground up. My interests lie at the intersection of **Artificial Intelligence, Graphics Programming, and Systems Development**. I enjoy understanding how software works beneath the surface rather than relying solely on high-level abstractions.
-
-Currently, I'm building my own **2D Game Engine** while learning **OpenGL** and strengthening my problem-solving skills through **Data Structures & Algorithms**.
+- 🎮 **six_sevenGE** — Building a modular 2D game engine in C++ and SDL2.
+- 🌍 **Terraria Clone** — Developing a sandbox game powered by six_sevenGE.
+- 📖 **Learning OpenGL** alongside Data Structures & Algorithms.
+- 🧠 **Exploring Neural Surrogate Models** for physics simulations.
 
 ---
 
-# 🚧 Currently Building
+## 🎯 Projects
 
-```text
-🎮 six_sevenGE
-
-✔ Physics Engine
-✔ Collision Detection
-✔ Camera System
-✔ Animation System
-✔ Texture Manager
-✔ Tilemap Renderer
-
-🔄 Currently Working On
-
-• Terraria Clone
-• OpenGL
-• Data Structures & Algorithms
-```
+| Game Development | AI & Machine Learning |
+| :--------------- | :-------------------- |
+| **six_sevenGE** – A custom 2D game engine built in C++ and SDL2 featuring physics, animation, camera system, tilemaps, and modular architecture. • [Repo](https://github.com/Ayushu69/6_7GE.git) | **Neural Surrogate Modeling** *(In Progress)* – Physics-informed neural surrogate models for solving PDEs using deep learning. • [Repo](https://github.com/Ayushu69/neuro-surrogate-ds.git) |
+| **Terraria Clone** – A Terraria-inspired sandbox game built on six_sevenGE with procedural generation, inventory system, and tile interactions. • [Repo](https://github.com/Ayushu69/6_7GE.git) | **Deep Learning Projects** – Collection of CNN and computer vision projects including MNIST, CIFAR-10 and Brain Tumor Classification. |
 
 ---
 
-# 🚀 Featured Projects
+## 🌀 Stuff I Use
 
-## 🎮 six_sevenGE
-
-> A modular **2D Game Engine** built completely from scratch in **C++** using **SDL2**.
-
-### Features
-
-- Physics Simulation
-- AABB Collision Detection
-- Camera System
-- Animation State Machine
-- Texture Management
-- Tilemap Rendering
-- Fixed Time Step
-- Modular Architecture
-
+| Category | Technologies |
+| :-------- | :----------- |
+| **Languages** | [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) |
+| **Game Dev** | [![SDL2](https://img.shields.io/badge/SDL2-111111?style=flat-square)](https://www.libsdl.org/) [![LibreSprite](https://img.shields.io/badge/LibreSprite-7C4DFF?style=flat-square)](https://libresprite.github.io/) |
+| **AI / ML** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=flat-square)](https://huggingface.co/docs/transformers/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/) |
+| **Data Science** | [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)](https://seaborn.pydata.org/) |
+| **Web** | [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
+| **Tools** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![MSYS2](https://img.shields.io/badge/MSYS2-0085CA?style=flat-square)](https://www.msys2.org/) [![GCC](https://img.shields.io/badge/GCC-00599C?style=flat-square&logo=gnu&logoColor=white)](https://gcc.gnu.org/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) |
 ---
 
-## 🌎 Terraria Clone
-
-Built entirely using **six_sevenGE** to demonstrate the engine's capabilities.
-
-### Features
-
-- Procedural Terrain Generation
-- Inventory System
-- Tile Interaction
-- World Generation
-- Sandbox Gameplay
-- Engine Reusability
-
----
-
-## 🧠 Neural Surrogate Models
-
-Physics-informed deep learning models for approximating PDE solvers using neural networks.
-
-**Tech Stack**
-
-- PyTorch
-- NumPy
-- Scientific Computing
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
-</p>
-
----
-
-## Data Science
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
-
----
-
-## Game Development
-
-<p>
-
-<img src="https://img.shields.io/badge/SDL2-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LibreSprite-8A2BE2?style=for-the-badge"/>
-
-</p>
-
----
-
-## Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,fastapi"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux"/>
-
-<img src="https://img.shields.io/badge/MSYS2-1A73E8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GCC-00599C?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-Game Engine Development     ████████████████████████ 90%
-
-C++                         ██████████████████████░ 88%
-
-Machine Learning            ███████████████████░░░░ 75%
-
-Data Structures             ████████████████░░░░░░░ 65%
-
-OpenGL                      ████████░░░░░░░░░░░░░░░ 35%
-```
-
----
-
-# 💭 Philosophy
-
-> I enjoy understanding how software works beneath the surface. Whether it's building a game engine, training neural networks, or optimizing systems, I enjoy solving problems from first principles.
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"First, solve the problem. Then, write the code."*
-
-</div>username=Ayushu69&layout=donut&theme=transparent&bg_color=161B22&border_color=30363D&hide_border=false&title_color=58A6FF&text_color=C9D1D9"/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushu69&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushu69&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ayushu69">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushu69&custom_title=Activity%20Graph&bg_color=161B22&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushu69&theme=github-dark&hide_border=true" width="100%">
 </p>
 
-## 👾 Connect with me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Ayushu69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushmaan67)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ayushmaandhiman59@gmail.com)
+## 🌀 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/ayushmaan67)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushmaandhiman59@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=Ayushu69&color=blueviolet)
