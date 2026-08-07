@@ -34,7 +34,7 @@
     <td>
       Exploring CNN rollout models and Fourier Neural Operators for approximating expensive numerical PDE solvers.
       <br>
-      <a href="https://github.com/Ayushu69/neural-surrogate">Repo</a>
+      <a href="[https://github.com/Ayushu69/neural-surrogate](https://github.com/Ayushu69/neuro-surrogate-ds.git)">Repo</a>
     </td>
   </tr>
 </table>
