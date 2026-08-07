@@ -24,7 +24,7 @@
       A modular 2D game engine written from scratch in <strong>C</strong> using <strong>SDL2</strong>.
       Currently implementing physics, collision detection, tilemap rendering, camera systems, and sprite animation.
       <br>
-      <a href="https://github.com/Ayushu69/6_7GE">Repo</a>
+      <a href="https://github.com/Ayushu69/6_7GE.git">Repo</a>
     </td>
   </tr>
 
@@ -34,7 +34,7 @@
     <td>
       Exploring CNN rollout models and Fourier Neural Operators for approximating expensive numerical PDE solvers.
       <br>
-      <a href="[https://github.com/Ayushu69/neural-surrogate](https://github.com/Ayushu69/neuro-surrogate-ds.git)">Repo</a>
+      <a href="https://github.com/Ayushu69/neuro-surrogate-ds.git">Repo</a>
     </td>
   </tr>
 </table>
