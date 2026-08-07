@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rdr.jpg" width="100%">
+  <img src="rdr.jpeg" width="100%">
 </p>
 
 ### Hey, I'm Ayushmaan
