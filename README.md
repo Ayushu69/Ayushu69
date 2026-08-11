@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furged&theme=github_dark" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Ayushu69&theme=dark)](https://git.io/streak-stats)" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushu69&theme=github_dark" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Ayushu69&theme=gruvbox" />
 </p>
 
 <p align="center">
